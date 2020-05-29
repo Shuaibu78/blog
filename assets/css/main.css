@@ -3356,7 +3356,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		padding: 10em 0 0 0 ;
+		padding: 4em 0 0 0 ;
 	}
 
 		#banner .inner {
@@ -3597,7 +3597,7 @@ input, select, textarea {
 
 	.wrapper {
 		background-color: #2e3141;
-		margin: 6.5em 0;
+		margin: 4em 0;
 		position: relative;
 	}
 
@@ -3976,6 +3976,9 @@ input, select, textarea {
 
 		}
 
+		#work {
+			padding: 0.5em 0 0 0;
+		}
 /* Footer */
 
 	#footer .inner {
